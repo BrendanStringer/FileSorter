@@ -11,10 +11,8 @@ import sys
 def main(): 
 
 	# Initialize variables
-	extensionList = []
 	fileCount = 0
-	SORTED_FILES = '../sorted_files/'
-	copiedFiles = 0
+	SORTED_FILES = '../sorted_files/'0
 
 	# Get current working directory
 	cwd = os.getcwd()
