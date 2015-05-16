@@ -12,7 +12,7 @@ def main():
 
 	# Initialize variables
 	fileCount = 0
-	SORTED_FILES = '../sorted_files/'0
+	SORTED_FILES = '../sorted_files/'
 
 	# Get current working directory
 	cwd = os.getcwd()
